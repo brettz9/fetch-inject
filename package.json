@@ -1,6 +1,6 @@
 {
   "name": "fetch-inject",
-  "version": "1.9.1",
+  "version": "1.10.0",
   "description": "Dynamically inline assets into the DOM using Fetch Injection.",
   "author": "Josh Habdas <jhabdas@protonmail.com> (https://habd.as/)",
   "module": "dist/fetch-inject.es.js",
